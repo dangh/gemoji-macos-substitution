@@ -1,0 +1,21 @@
+{
+  "name": "macos-substitutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "emoticon": "^3.2.0",
+    "gemoji": "^5.0.0",
+    "plist": "^3.0.1"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true
+  }
+}

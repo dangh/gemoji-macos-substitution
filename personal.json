@@ -1,0 +1,118 @@
+[
+  {
+    "phrase": "→",
+    "shortcuts": ["->"]
+  },
+  {
+    "phrase": "⓪",
+    "shortcuts": ["(0)"]
+  },
+  {
+    "phrase": "①",
+    "shortcuts": ["(1)"]
+  },
+  {
+    "phrase": "②",
+    "shortcuts": ["(2)"]
+  },
+  {
+    "phrase": "③",
+    "shortcuts": ["(3)"]
+  },
+  {
+    "phrase": "④",
+    "shortcuts": ["(4)"]
+  },
+  {
+    "phrase": "⑤",
+    "shortcuts": ["(5)"]
+  },
+  {
+    "phrase": "⑥",
+    "shortcuts": ["(6)"]
+  },
+  {
+    "phrase": "⑦",
+    "shortcuts": ["(7)"]
+  },
+  {
+    "phrase": "⑧",
+    "shortcuts": ["(8)"]
+  },
+  {
+    "phrase": "⑨",
+    "shortcuts": ["(9)"]
+  },
+  {
+    "phrase": "⑩",
+    "shortcuts": ["(10)"]
+  },
+  {
+    "phrase": "⑪",
+    "shortcuts": ["(11)"]
+  },
+  {
+    "phrase": "⑫",
+    "shortcuts": ["(12)"]
+  },
+  {
+    "phrase": "⑬",
+    "shortcuts": ["(13)"]
+  },
+  {
+    "phrase": "⑭",
+    "shortcuts": ["(14)"]
+  },
+  {
+    "phrase": "⑮",
+    "shortcuts": ["(15)"]
+  },
+  {
+    "phrase": "⑯",
+    "shortcuts": ["(16)"]
+  },
+  {
+    "phrase": "⑰",
+    "shortcuts": ["(17)"]
+  },
+  {
+    "phrase": "⑱",
+    "shortcuts": ["(18)"]
+  },
+  {
+    "phrase": "⑲",
+    "shortcuts": ["(19)"]
+  },
+  {
+    "phrase": "⑳",
+    "shortcuts": ["(20)"]
+  },
+  {
+    "phrase": "👍",
+    "shortcuts": ["(y)"]
+  },
+  {
+    "phrase": "❓",
+    "shortcuts": ["\\?"]
+  },
+  {
+    "phrase": "⇒",
+    "shortcuts": ["=>"]
+  },
+  {
+    "phrase": "〜",
+    "shortcuts": ["~~", "\\~"]
+  },
+  {
+    "phrase": "✔︎",
+    "shortcuts": ["vv", "\\v"]
+  },
+  {
+    "phrase": "✘",
+    "shortcuts": ["xx", "\\x"]
+  },
+  {
+    "phrase": "Yến",
+    "shortcuts": ["yến"]
+  }
+]
