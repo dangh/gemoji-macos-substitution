@@ -4,8 +4,6 @@ const gemoji = require('gemoji');
 const emoticon = require('emoticon');
 const personal = require('./personal');
 
-console.log(new Set(gemoji.map(x => x.category)));
-
 let gemojies = gemoji
   .filter(g => ['Smileys & Emotion'].includes(g.category))
   .flatMap(({ emoji, names }) =>

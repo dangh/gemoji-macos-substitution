@@ -5,87 +5,87 @@
   },
   {
     "phrase": "⓪",
-    "shortcuts": ["(0)"]
+    "shortcuts": ["(0)", "\\0"]
   },
   {
     "phrase": "①",
-    "shortcuts": ["(1)"]
+    "shortcuts": ["(1)", "\\1"]
   },
   {
     "phrase": "②",
-    "shortcuts": ["(2)"]
+    "shortcuts": ["(2)", "\\2"]
   },
   {
     "phrase": "③",
-    "shortcuts": ["(3)"]
+    "shortcuts": ["(3)", "\\3"]
   },
   {
     "phrase": "④",
-    "shortcuts": ["(4)"]
+    "shortcuts": ["(4)", "\\4"]
   },
   {
     "phrase": "⑤",
-    "shortcuts": ["(5)"]
+    "shortcuts": ["(5)", "\\5"]
   },
   {
     "phrase": "⑥",
-    "shortcuts": ["(6)"]
+    "shortcuts": ["(6)", "\\6"]
   },
   {
     "phrase": "⑦",
-    "shortcuts": ["(7)"]
+    "shortcuts": ["(7)", "\\7"]
   },
   {
     "phrase": "⑧",
-    "shortcuts": ["(8)"]
+    "shortcuts": ["(8)", "\\8"]
   },
   {
     "phrase": "⑨",
-    "shortcuts": ["(9)"]
+    "shortcuts": ["(9)", "\\9"]
   },
   {
     "phrase": "⑩",
-    "shortcuts": ["(10)"]
+    "shortcuts": ["(10)", "\\10"]
   },
   {
     "phrase": "⑪",
-    "shortcuts": ["(11)"]
+    "shortcuts": ["(11)", "\\11"]
   },
   {
     "phrase": "⑫",
-    "shortcuts": ["(12)"]
+    "shortcuts": ["(12)", "\\12"]
   },
   {
     "phrase": "⑬",
-    "shortcuts": ["(13)"]
+    "shortcuts": ["(13)", "\\13"]
   },
   {
     "phrase": "⑭",
-    "shortcuts": ["(14)"]
+    "shortcuts": ["(14)", "\\14"]
   },
   {
     "phrase": "⑮",
-    "shortcuts": ["(15)"]
+    "shortcuts": ["(15)", "\\15"]
   },
   {
     "phrase": "⑯",
-    "shortcuts": ["(16)"]
+    "shortcuts": ["(16)", "\\16"]
   },
   {
     "phrase": "⑰",
-    "shortcuts": ["(17)"]
+    "shortcuts": ["(17)", "\\17"]
   },
   {
     "phrase": "⑱",
-    "shortcuts": ["(18)"]
+    "shortcuts": ["(18)", "\\18"]
   },
   {
     "phrase": "⑲",
-    "shortcuts": ["(19)"]
+    "shortcuts": ["(19)", "\\19"]
   },
   {
     "phrase": "⑳",
-    "shortcuts": ["(20)"]
+    "shortcuts": ["(20)", "\\20"]
   },
   {
     "phrase": "👍",
@@ -114,5 +114,9 @@
   {
     "phrase": "Yến",
     "shortcuts": ["yến"]
+  },
+  {
+    "phrase": "×",
+    "shortcuts": ["&times;"]
   }
 ]
