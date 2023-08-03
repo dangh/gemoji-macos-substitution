@@ -12,7 +12,7 @@
   "dependencies": {
     "emoticon": "^3.2.0",
     "gemoji": "^5.0.0",
-    "plist": "^3.0.1"
+    "plist": "^3.0.5"
   },
   "prettier": {
     "printWidth": 100,
